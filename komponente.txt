@@ -1,0 +1,8 @@
+DIODA 1N 4007                           X4
+Kondenzator 0,1uF/400V                  X2
+Otpornik 390-470K                       X1
+Potenciometar 220K                      X1
+DIODA 1N4148                            X2
+Otpornik 1M                             X1
+Otpornik 470K                           X1
+OSIGURAÈ 5X20 BRZI 250V 1A              X1
